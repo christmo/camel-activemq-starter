@@ -12,7 +12,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: org.apache.camel:camel-core:2.15.2" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.6" level="project" />
     <orderEntry type="library" name="Maven: com.sun.xml.bind:jaxb-core:2.2.11" level="project" />
     <orderEntry type="library" name="Maven: com.sun.xml.bind:jaxb-impl:2.2.11" level="project" />
     <orderEntry type="library" name="Maven: org.apache.camel:camel-jms:2.15.2" level="project" />
@@ -41,5 +40,8 @@
     <orderEntry type="library" name="Maven: org.fusesource.hawtbuf:hawtbuf:1.11" level="project" />
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.camel:camel-stream:2.15.2" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.7" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.7" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
   </component>
 </module>

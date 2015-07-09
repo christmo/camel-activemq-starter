@@ -22,10 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="camel-activemq-starter" />
         <module name="com.christmo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="camel-activemq-starter" target="1.5" />
       <module name="com.christmo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
